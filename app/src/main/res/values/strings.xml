@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieViewer</string>
+    <string name="loading">Загрузка...</string>
+    <string name="movie">Фильмы</string>
+    <string name="tv_series">Сериалы</string>
+    <string name="cartoons">Мультфильмы</string>
+    <string name="all">Все</string>
+    <string name="watch_now">Сейчас смотрят</string>
+    <string name="favorites">Избранное</string>
+    <string name="unable_load_data">Не удалось загрузить каталог</string>
+    <string name="share_to">Share to</string>
+    <string name="search">Поиск</string>
+    <string name="trailer">Трейлер</string>
+    <string name="director">Режиссер:</string>
+    <string name="actors">В ролях:</string>
+    <string name="duration">Продолжительность:</string>
+    <string name="description">Описание:</string>
+    <string name="genre">Жанр:</string>
+</resources>

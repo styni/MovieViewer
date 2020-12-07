@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/tab_watch_now"
+        android:icon="@drawable/ic_all"
+        android:title="@string/watch_now"/>
+
+    <item
+        android:id="@+id/tab_movie"
+        android:icon="@drawable/ic_movie"
+        android:title="@string/movie"/>
+
+    <item
+        android:id="@+id/tab_serials"
+        android:icon="@drawable/ic_serial"
+        android:title="@string/tv_series"/>
+
+    <item
+        android:id="@+id/tab_cartoons"
+        android:icon="@drawable/ic_cartoon"
+        android:title="@string/cartoons"/>
+
+    <item
+        android:id="@+id/tab_favorites"
+        android:icon="@drawable/ic_favorites"
+        android:title="@string/favorites"/>
+
+</menu>
